@@ -1,0 +1,3 @@
+This is a file to test whether I can clone my new repository from Github.
+
+Time is 10:31
