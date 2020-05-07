@@ -8,3 +8,9 @@ Time is 10:31
 So the file appeared, now I will push the change back to the master branch.
 
 Time is 10:33
+
+
+
+This is a 3rd modification to this file. I will add, commit and push this change using the wildcard * so that I can test my .gitignore file works.
+
+Time is 10:41
