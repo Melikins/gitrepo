@@ -1,3 +1,10 @@
 This is a file to test whether I can clone my new repository from Github.
 
 Time is 10:31
+
+
+
+
+So the file appeared, now I will push the change back to the master branch.
+
+Time is 10:33
